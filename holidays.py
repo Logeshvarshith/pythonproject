@@ -1,5 +1,5 @@
 a=input("Enter the day:")
 if(a=='saturday' or a=='sunday'):
-  print("It is a holiday")
+  print("yes")
 else:
-  print("It is not a holiday")
+  print("no")
